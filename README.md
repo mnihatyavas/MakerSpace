@@ -1,0 +1,3 @@
+Tam açılımıyla "Maker Hacker Tinker Space" yada kısaca FabLab (FabricityLaboratory/İmalat-YapBoz-Atölyesi) kurumlarının uygulamaları, deneyleri, breadboard ekmektahtasıyla veya solder lehimlemeyle elektronik oyun devreleri ve oyuncak robotları ele alınacaktır.
+Gelecekte tüm ilkokullardan itibaren FabLab ve piyasada internet-kafeler gibi yaygın maker-kafeler konuları işlenecektir.
+Küçükler ve büyüklere yeni elektronik yap-boz kafeleri hayırlı ola...
